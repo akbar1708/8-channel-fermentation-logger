@@ -51,14 +51,7 @@ char auth[] = "zwzxldZ_RPum_0BlstggNk0HUb-Ec-2C";
 // Set password to "" for open networks.
 //char ssid[] = "4G-UFI-2286";
 //char pass[] = "1234567890";
-char ssid[] = "I-O-T";
-char pass[] = "*1234567890*";
-//char ssid[] = "POCO";
-//char pass[] = "a12345678";
-//char ssid[] = "ichigo";
-//char pass[] = "limolas99";
-//char ssid[] = "EMOBILE-GL09P-BF27";
-//char pass[] = "32243455";
+
 
 ADC_MODE(ADC_VCC);
 

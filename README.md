@@ -1,2 +1,3 @@
 # 8-channel-fermentation-logger
 This system is build to monitor CO2 gas evolution during ethanol fermentation. This system is build to monitor CO2 gas evolution during ethanol fermentation. Gas volume is measured by liquid displacement method using generic manometer chamber which is constructed from laser cut acrylic material. ESP8266 microcontroller (Wemos D1 R2 mini) is used for the data logging and automation. The gas pressure is monitored using BMP180 sensor, with a maximum number of 8 sensor can be installed to the platform to monitor 8 manometer chamber. 
+![IMG_20220211_093844](https://user-images.githubusercontent.com/8020668/166142021-e9b8e34b-7803-46fc-b34e-2b7016003acb.jpg)
